@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.Div{
+  margin-top: 50px;
+  display:flex; 
+  flex-direction:row;
+  gap: 150px;
+  justify-content: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
